@@ -1,0 +1,5 @@
+# This file ensures the data directory is created
+# The directory will store:
+# - config.json: User settings
+# - vault.dat: Encrypted API credentials
+# - *.log: Application logs

@@ -1,0 +1,1 @@
+# UI widget components for Binance Portfolio Tracker

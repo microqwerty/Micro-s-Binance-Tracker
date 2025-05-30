@@ -1,4 +1,4 @@
-# Binance Portfolio Tracker A first try on fully AI generated software experiemnt.
+# Binance Portfolio Tracker A first try on fully AI generated software experiment.
 
 A secure desktop Python application that connects to the Binance Spot API in read-only mode to track your cryptocurrency portfolio.
 
